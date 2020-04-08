@@ -23,6 +23,6 @@ pipeline {
 
   }
   environment {
-    WORK_SPACE = '/var/lib/jenkins/workspace/Release-management-poc'
+    WORK_SPACE = '/var/lib/jenkins/workspace/Release-management-poc_master'
   }
 }
